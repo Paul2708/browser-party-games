@@ -16,21 +16,46 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Schach-Variante, bei der 4 Spieler auf einem Brett gegeneinander spielen.
 - **[agar.io](https://agar.io)**
   > Man startet als kleiner Kreis und muss durch das Überdecken anderer Kreise größer und größer werden.
+- **[City Guesser](https://virtualvacation.us/guess)**
+  > Anhand eines abgespielten Videos muss man wie in Geo Guessr entscheiden, wo man sich befindet.
+- **[Clash of Code](https://www.codingame.com/multiplayer/clashofcode)**
+  > Competetive Programming: Erkenne das Problem anhand des Outputs und programmiere schnell die entsprechende Methode.
+  > In einem anderen Modus gewinnt die Lösung, die am wenigsten Zeichen verwendet hat.
 - **[Codenames](https://codenames.game)**
   > Spiele das Brettspiel Codenames online.
   > Das Ziel ist es Oberbegriffe für Wörter zu finden, damit das eigene Team die zugehörigen Wörter erkennt und aufdeckt.
+- **[Gartic Phone](https://garticphone.com)**
+  > Zuerst legt sich jeder Spieler auf ein Wort fest.
+  > Dann bekommt jeder Spieler ein Wort, das er zeichnen muss.
+  > Danach werden alle Bilder zufällig aufgeteilt.
+  > Die Begriffe müssen dann wieder gezeichnet werden usw.
+  > Stille Post mit Bildern.
 - **[GeoBingo](https://geobingo.io)**
   > Man einigt sich am Anfang auf eine Bingo-Karte und muss dann mittels Google Street View soviel wie möglich abhaken.
   > Um spielen zu können, braucht mindestens eine Person Premium.
 - **[GeoGuessr](https://www.geoguessr.com)**
   > Mithilfe von Google Street View muss man erraten wo man sich befindet.
   > Um mit Freunden zu spielen, braucht mindestens eine Person Premium.
+- **[Geotastic](https://geotastic.net)**
+  > Eine kostenlose Alternative zu GeoGuessr.
 - **[Guess The Price](https://guess-the-price.de)**
   > Basierend auf einem Bild und dem Titel eines eBay-Kleinanzeigen-Artikels muss man den Preis schätzen.
+- **[jklm.fun](https://jklm.fun)**
+  > Auf der Seite kann man zwei Spiele spielen: BombParty und PopSauce.
+  > Bei BombParty muss man abwechselnd schnell ein Wort eingeben, das eine vorgegebne Buchstaben-Sequenz beinhaltet.
+  > Bei PopSauce muss man Pop-kulturelle Fragen zu Musik, Schauspieler, Politiker, Berühmtheiten usw. beantworten.
+- **[Krunker](https://krunker.io)**
+  > Ein Block-basierter FPS.
+- **[Picture Cards Online](https://www.picturecards.online)**
+  > Cards Against Humanity unter einem anderen Namen.
 - **[Puzzle With Friends](https://preview.puzzlewithfriends.net)**
   > Puzzle gemeinsam in Echtzeit mit Freunden.
+- **[Shellshock](https://shellshock.io/)**
+  > Ein "kinderfreundlicher" FPS mit Eiern (und Waffen).
 - **[skribbl.io](https://skribbl.io)**
   > Ein Spieler zeichnet, die anderen Spieler müssen das gezeichnete Wort erraten.
+- **[Song Trivia](https://songtrivia2.io/de)**
+  > Beantwortet Fragen zu Liedern, die über den Spotify Web Player abgespielt werden.
 
 ## Singleplayer Games
 
@@ -39,6 +64,9 @@ Next to multiplayer games, this section lists games that can be played alone.
 - **[contexto](https://contexto.me)**
   > Errate das gesuchte Wort.
   > Das Spiel nutzt "KI", um anzugeben wie "nah" das getippte Wort am Suchwort liegt.
+- **[neal.fun](https://neal.fun/)**
+  > Auf dieser Seite gibt es eine Menge an coolen Spielen.
+  > Darunter sind Infinity Craft, The Password Game und Draw a Perfect Cicle.
 - **[wordle](https://www.nytimes.com/games/wordle/index.html)**
   > Errate nach und nach das gesuchte Wort.
 - **[wördle](https://www.wördle.de)**
