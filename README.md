@@ -46,6 +46,8 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Bei PopSauce muss man Pop-kulturelle Fragen zu Musik, Schauspieler, Politiker, Berühmtheiten usw. beantworten.
 - **[Krunker](https://krunker.io)**
   > Ein Block-basierter FPS.
+- **[Mario vs. Luigi](https://ipodtouch0218.itch.io/nsmb-mariovsluigi)**
+  > Ein 2-10-Spieler-Remake des Spielmodus Mario gegen Luigi aus New Super Mario Bros DS.
 - **[Picture Cards Online](https://www.picturecards.online)**
   > Cards Against Humanity unter einem anderen Namen.
 - **[Puzzle With Friends](https://preview.puzzlewithfriends.net)**
@@ -61,12 +63,17 @@ This enumeration lists the games alphabetically and briefly describes their cont
 
 Next to multiplayer games, this section lists games that can be played alone.
 
+- **[Abyssal Shadows](https://byxtogo.itch.io/abyssalshadows)**
+  > Sei schneller als dein Schatten und erreiche das Ziel ohne gefangen zu werden.
 - **[contexto](https://contexto.me)**
   > Errate das gesuchte Wort.
   > Das Spiel nutzt "KI", um anzugeben wie "nah" das getippte Wort am Suchwort liegt.
 - **[neal.fun](https://neal.fun/)**
   > Auf dieser Seite gibt es eine Menge an coolen Spielen.
   > Darunter sind Infinity Craft, The Password Game und Draw a Perfect Cicle.
+- **[Score-Ball](https://byxtogo.itch.io/scoreball)**
+  > Ein Flipper-Spiel mit unterschiedlichen Leveln und neuen Komponenten.
+  > Ziel ist es den Highscore zu knacken.
 - **[wordle](https://www.nytimes.com/games/wordle/index.html)**
   > Errate nach und nach das gesuchte Wort.
 - **[wördle](https://www.wördle.de)**
