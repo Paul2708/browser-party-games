@@ -46,7 +46,7 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Bei PopSauce muss man Pop-kulturelle Fragen zu Musik, Schauspieler, Politiker, Berühmtheiten usw. beantworten.
 - **[Krunker](https://krunker.io)**
   > Ein Block-basierter FPS.
-- **[lostgamer.io](https://krunker.io)**
+- **[lostgamer.io](https://lostgamer.io)**
   > GeoGuessr mit Videospielen.
   > Man spawnt auf der Map und muss die Position auf der Karte markieren.
   > Aktuelle Spiele: Fortnite, GTA, WoW, Elden Ring, Skyrim, usw.
