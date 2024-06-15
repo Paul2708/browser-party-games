@@ -24,6 +24,10 @@ This enumeration lists the games alphabetically and briefly describes their cont
 - **[Codenames](https://codenames.game)**
   > Spiele das Brettspiel Codenames online.
   > Das Ziel ist es Oberbegriffe für Wörter zu finden, damit das eigene Team die zugehörigen Wörter erkennt und aufdeckt.
+- **[Death by AI](https://deathbyai.gg)**
+  > Alle Spieler überlegen sich ein tödliches Szenario.
+  > Danach muss man sich eine Strategie überlegen, um diese Szenarien zu überleben
+  > Wie "gut" die Strategien sind, wird von einer KI entschieden.
 - **[Gartic Phone](https://garticphone.com)**
   > Zuerst legt sich jeder Spieler auf ein Wort fest.
   > Dann bekommt jeder Spieler ein Wort, das er zeichnen muss.
@@ -77,6 +81,8 @@ Next to multiplayer games, this section lists games that can be played alone.
   > Anhand des Dialekts bestimmt die Webseite woher du ursprünglich kommst.
 - **[Guess The Game](https://guessthe.game)**
   > Anhand eines Screenshots eines Videospiels muss man den Titel des Videospiels erraten.
+- **[Higher Lower](https://www.higherlowergame.com)**
+  > Tippe, ob eine Google-Suchanfrage öfters oder weniger oft als die vorherige Anfrage gesucht wurde.
 - **[neal.fun](https://neal.fun/)**
   > Auf dieser Seite gibt es eine Menge an coolen Spielen.
   > Darunter sind Infinity Craft, The Password Game und Draw a Perfect Cicle.
