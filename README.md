@@ -70,6 +70,7 @@ This enumeration lists the games alphabetically and briefly describes their cont
 ## Singleplayer Games
 
 Next to multiplayer games, this section lists games that can be played alone.
+However, most of the games can be played against each other by measuring time or comparing scores.
 
 - **[Abyssal Shadows](https://byxtogo.itch.io/abyssalshadows)**
   > Sei schneller als dein Schatten und erreiche das Ziel ohne gefangen zu werden.
@@ -94,6 +95,8 @@ Next to multiplayer games, this section lists games that can be played alone.
   > Der Screenshot zeigt einen Spot auf einer CS- oder Valorant-Map, den man danach auf der Karte markieren muss.
 - **[VGM Quiz](https://www.vgm-quiz.com/play/)**
   > Errate anhand eines Soundtracks den passenden Videospiel-Titel.
+- **[Wer wird Millionär?](https://spiele.rtl.de/spiele/rtl-spiele/wwm)**
+  > Beantworte Fragen wie in der Quizshow "Wer wird Millionär?".
 - **[wordle](https://www.nytimes.com/games/wordle/index.html)**
   > Errate nach und nach das gesuchte Wort.
 - **[wördle](https://www.wördle.de)**
