@@ -60,6 +60,8 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Cards Against Humanity unter einem anderen Namen.
 - **[Puzzle With Friends](https://preview.puzzlewithfriends.net)**
   > Puzzle gemeinsam in Echtzeit mit Freunden.
+- **[Scrabble](https://playscrabble.com)**
+  > Spiele eine Runde Scrabble gemeinsam mit deinen Freunden.
 - **[Shellshock](https://shellshock.io/)**
   > Ein "kinderfreundlicher" FPS mit Eiern (und Waffen).
 - **[skribbl.io](https://skribbl.io)**
