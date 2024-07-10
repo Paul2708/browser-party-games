@@ -95,6 +95,9 @@ However, most of the games can be played against each other by measuring time or
 - **[SpotGuessr](https://www.spotguessr.com)**
   > Man bekommt einen kleinen Ausschnitt eines Screenshots gezeigt.
   > Der Screenshot zeigt einen Spot auf einer CS- oder Valorant-Map, den man danach auf der Karte markieren muss.
+- **[travle](https://travle.earth)**
+  > Nenne Länder, um vom Start-Land zu Ziel-Land zu gelangen.
+  > Probiere, das Ziel mit so wenigen Versuchen wie möglich zu erreichen.
 - **[VGM Quiz](https://www.vgm-quiz.com/play/)**
   > Errate anhand eines Soundtracks den passenden Videospiel-Titel.
 - **[Wer wird Millionär?](https://spiele.rtl.de/spiele/rtl-spiele/wwm)**
