@@ -54,6 +54,9 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > GeoGuessr mit Videospielen.
   > Man spawnt auf der Map und muss die Position auf der Karte markieren.
   > Aktuelle Spiele: Fortnite, GTA, WoW, Elden Ring, Skyrim, usw.
+- **[Make It Meme](https://makeitmeme.com/)**
+  > Du und deine Freunde erhalten Meme-Templates.
+  > Überlege dir lustige Texte und erhalte damit Punkte für die besten Memes. 
 - **[Mario vs. Luigi](https://ipodtouch0218.itch.io/nsmb-mariovsluigi)**
   > Ein 2-10-Spieler-Remake des Spielmodus Mario gegen Luigi aus New Super Mario Bros DS.
 - **[Picture Cards Online](https://www.picturecards.online)**
