@@ -105,6 +105,9 @@ However, most of the games can be played against each other by measuring time or
   > Errate anhand eines Soundtracks den passenden Videospiel-Titel.
 - **[Wer wird Millionär?](https://spiele.rtl.de/spiele/rtl-spiele/wwm)**
   > Beantworte Fragen wie in der Quizshow "Wer wird Millionär?".
+- **[What Beats Rock Game](https://www.whatbeatsrock.com)**
+  > Spiele Schere-Stein-Papier, aber unendlich lange.
+  > Eine KI bewertet, ob dein Begriff den vorherigen Begriff schlagen kann.
 - **[wordle](https://www.nytimes.com/games/wordle/index.html)**
   > Errate nach und nach das gesuchte Wort.
 - **[wördle](https://www.wördle.de)**
