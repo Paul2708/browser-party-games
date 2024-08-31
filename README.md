@@ -12,6 +12,8 @@ However, most of the games can be played in English as well.
 
 This enumeration lists the games alphabetically and briefly describes their content.
 
+- **[1v1.lol](https://1v1.lol)**
+  > Fortnite als Browser-Game.
 - **[4-Spieler Schach](https://www.chess.com/de/terms/4-spieler-schach)**
   > Schach-Variante, bei der 4 Spieler auf einem Brett gegeneinander spielen.
 - **[agar.io](https://agar.io)**
@@ -92,6 +94,8 @@ However, most of the games can be played against each other by measuring time or
 - **[neal.fun](https://neal.fun/)**
   > Auf dieser Seite gibt es eine Menge an coolen Spielen.
   > Darunter sind Infinity Craft, The Password Game und Draw a Perfect Cicle.
+- **[Nerdle](https://nerdlegame.com)**
+  > Wordle, aber mit Zahlen und mathematischen Operatoren.
 - **[Score-Ball](https://byxtogo.itch.io/scoreball)**
   > Ein Flipper-Spiel mit unterschiedlichen Leveln und neuen Komponenten.
   > Ziel ist es den Highscore zu knacken.
