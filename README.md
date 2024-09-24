@@ -73,6 +73,8 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Ein Spieler zeichnet, die anderen Spieler müssen das gezeichnete Wort erraten.
 - **[Song Trivia](https://songtrivia2.io/de)**
   > Beantwortet Fragen zu Liedern, die über den Spotify Web Player abgespielt werden.
+- **[Stadt-Land-Fluss](https://stadtlandfluss.cool)**
+  > Spiele das klassische Stadt-Land-Fluss, auch mit eigenen Kategorieren, zusammen mit Freunden.
 
 ## Singleplayer Games
 
