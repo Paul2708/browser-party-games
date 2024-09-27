@@ -75,6 +75,8 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Beantwortet Fragen zu Liedern, die über den Spotify Web Player abgespielt werden.
 - **[Stadt-Land-Fluss](https://stadtlandfluss.cool)**
   > Spiele das klassische Stadt-Land-Fluss, auch mit eigenen Kategorieren, zusammen mit Freunden.
+- **[Stumble Guys](https://www.stumbleguys.com)**
+  > Fall Guys, aber im Browser und kostenlos.
 
 ## Singleplayer Games
 
