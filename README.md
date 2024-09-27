@@ -77,6 +77,10 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Spiele das klassische Stadt-Land-Fluss, auch mit eigenen Kategorieren, zusammen mit Freunden.
 - **[Stumble Guys](https://www.stumbleguys.com)**
   > Fall Guys, aber im Browser und kostenlos.
+- **[TicTacToe](https://boardgames.io)**
+  > Spiele mit deinen Freunden eine Runde TicTacToe.
+- **[Vier Gewinnt](https://boardgames.io)**
+  > Spiele mit deinen Freunden eine Runde "Vier Gewinnt".
 
 ## Singleplayer Games
 
