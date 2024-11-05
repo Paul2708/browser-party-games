@@ -99,6 +99,10 @@ However, most of the games can be played against each other by measuring time or
   > Anhand eines Screenshots eines Videospiels muss man den Titel des Videospiels erraten.
 - **[Higher Lower](https://www.higherlowergame.com)**
   > Tippe, ob eine Google-Suchanfrage öfters oder weniger oft als die vorherige Anfrage gesucht wurde.
+- **[LoLdle](https://loldle.net)**
+  > Errate League of Legends Champs im Wordle-Style. 
+- **[MCdle](https://www.mcdle.net)**
+  > Errate Minecraft Mobs, Blöcke und Items im Wordle-Style. 
 - **[neal.fun](https://neal.fun/)**
   > Auf dieser Seite gibt es eine Menge an coolen Spielen.
   > Darunter sind Infinity Craft, The Password Game und Draw a Perfect Cicle.
