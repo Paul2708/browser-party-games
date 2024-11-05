@@ -108,6 +108,9 @@ However, most of the games can be played against each other by measuring time or
   > Darunter sind Infinity Craft, The Password Game und Draw a Perfect Cicle.
 - **[Nerdle](https://nerdlegame.com)**
   > Wordle, aber mit Zahlen und mathematischen Operatoren.
+- **[PokeRogue](https://pokerogue.io)**
+   > PokeRogue ist ein Rogue-lite-Spiel im Pokémon-Universum.
+   > Strategisches Ressourcenmanagement ist erforderlich. 
 - **[Score-Ball](https://byxtogo.itch.io/scoreball)**
   > Ein Flipper-Spiel mit unterschiedlichen Leveln und neuen Komponenten.
   > Ziel ist es den Highscore zu knacken.
