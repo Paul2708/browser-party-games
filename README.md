@@ -18,6 +18,8 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Schach-Variante, bei der 4 Spieler auf einem Brett gegeneinander spielen.
 - **[agar.io](https://agar.io)**
   > Man startet als kleiner Kreis und muss durch das Überdecken anderer Kreise größer und größer werden.
+- **[Approaching Words](https://words.paul-hoger.de)**
+  > Wort für Wort müsst ihr euch annähern, um am Ende auf dasselbe Wort zu kommen.
 - **[City Guesser](https://virtualvacation.us/guess)**
   > Anhand eines abgespielten Videos muss man wie in Geo Guessr entscheiden, wo man sich befindet.
 - **[Clash of Code](https://www.codingame.com/multiplayer/clashofcode)**
