@@ -35,6 +35,8 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Alle Spieler überlegen sich ein tödliches Szenario.
   > Danach muss man sich eine Strategie überlegen, um diese Szenarien zu überleben
   > Wie "gut" die Strategien sind, wird von einer KI entschieden.
+- **[Dominion](https://dominion.games)**
+  > Spiele das bekannte Karten-Strategie/Aufbauspiel online mit Freunden.
 - **[Gartic Phone](https://garticphone.com)**
   > Zuerst legt sich jeder Spieler auf ein Wort fest.
   > Dann bekommt jeder Spieler ein Wort, das er zeichnen muss.
