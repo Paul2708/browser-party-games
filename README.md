@@ -86,6 +86,8 @@ This enumeration lists the games alphabetically and briefly describes their cont
   > Fall Guys, aber im Browser und kostenlos.
 - **[TicTacToe](https://boardgames.io)**
   > Spiele mit deinen Freunden eine Runde TicTacToe.
+- **[Timeguessr](https://timeguessr.com)**
+  > Bestimmte das Jahr und die Location eines gezeigten Bildes.
 - **[Vier Gewinnt](https://boardgames.io)**
   > Spiele mit deinen Freunden eine Runde "Vier Gewinnt".
 
@@ -96,12 +98,19 @@ However, most of the games can be played against each other by measuring time or
 
 - **[Abyssal Shadows](https://byxtogo.itch.io/abyssalshadows)**
   > Sei schneller als dein Schatten und erreiche das Ziel ohne gefangen zu werden.
+- **[Angle](https://angle.wtf)**
+  > Bestimme den angezeigten Winkel in Grad.
+- **[Bandle](https://bandle.app)**
+  > Errate den von der Band gespielten Song.
+  > Schritt für Schritt bekommt man immer mehr Instrumente zu hören.
 - **[contexto](https://contexto.me)**
   > Errate das gesuchte Wort.
   > Das Spiel nutzt "KI", um anzugeben wie "nah" das getippte Wort am Suchwort liegt.
 - **[Dialekt-Test](https://www.tagesanzeiger.ch/dialekt-test-wir-wissen-woher-sie-stammen-jetzt-noch-genauer-205060715129)**
   > Gib für 24 Objekte und Situationen an, wie du sie aussprechen würdest.
   > Anhand des Dialekts bestimmt die Webseite woher du ursprünglich kommst.
+- **[flagle](https://flagle-game.com)**
+  > Wordle, aber mit Flaggen.
 - **[Guess The Game](https://guessthe.game)**
   > Anhand eines Screenshots eines Videospiels muss man den Titel des Videospiels erraten.
 - **[Higher Lower](https://www.higherlowergame.com)**
@@ -136,6 +145,8 @@ However, most of the games can be played against each other by measuring time or
   > Eine KI bewertet, ob dein Begriff den vorherigen Begriff schlagen kann.
 - **[wordle](https://www.nytimes.com/games/wordle/index.html)**
   > Errate nach und nach das gesuchte Wort.
+- **[worldle](https://worldle.teuteuf.fr)**
+  > Wordle, aber mit Ländern.
 - **[wördle](https://www.wördle.de)**
   > Wordle, aber mit deutschen Wörtern.
 
