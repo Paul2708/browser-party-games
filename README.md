@@ -23,6 +23,10 @@ This enumeration lists the games alphabetically and briefly describes their cont
 - **[black stories](https://raetselgeist.de/black-stories/)**
   > Rekonstruiere den Tathergang, indem du Ja- oder Nein-Fragen stellst.
   > Ausgangspunkt ist dafür meist eine knapp-beschriebene und "komische" Situation.
+- **[BuddyBoardGames](https://buddyboardgames.com)**
+  > Eine Sammlung an verschiedenen Spielen, die du mit deinen Freunden spielen kannst.
+  > Es wird kein Login benöitgt.
+  > Beispiele: Uno, Set, Schiffe versenken, und Wizard
 - **[City Guesser](https://virtualvacation.us/guess)**
   > Anhand eines abgespielten Videos muss man wie in Geo Guessr entscheiden, wo man sich befindet.
 - **[Clash of Code](https://www.codingame.com/multiplayer/clashofcode)**
